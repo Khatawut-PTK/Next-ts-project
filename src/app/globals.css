@@ -32,3 +32,6 @@
   }
 }
 
+:where(.css-dev-only-do-not-override-1x0dypw).ant-form {
+  padding: 16px 16px 16px;
+}
